@@ -1,6 +1,7 @@
 QPID QA DEPARTMENT INTERVIEW EXAM
 
 Time: 45 minutes
+
 Resources: The Internet
 
 
