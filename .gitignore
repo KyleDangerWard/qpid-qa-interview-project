@@ -1,0 +1,52 @@
+## Ignore .DS_Files
+**.DS_Store
+**.project
+
+## Ignore IDEA files
+**.idea
+
+## Ignore .iml
+**.iml
+## Ignore eclipse prefs
+**.prefs
+
+## Ignore VS code stuff
+**.vscode
+
+## Ignore .log
+**.log
+
+## Ignore kafka secrets
+kubernetes/secrets/**
+
+## Ignore local kafka logs
+**/kafkaLogs
+casePartialService/casePartialService/src/main/java/META-INF/
+localDev/redis/redisDump/
+
+## Ignore generated jar files
+**.jar
+
+## Ignore node modules
+**/node_modules/
+
+## Ignore package lock
+**/package-lock.json
+
+## Ignore bundled files
+**/bundle.js*
+**/style.css*
+
+## Ignore classpath
+.classpath
+/**/.classpath
+
+## Manifest
+/**/*.MF
+
+##target folder
+**/target/**
+
+/target/
+
+bin
