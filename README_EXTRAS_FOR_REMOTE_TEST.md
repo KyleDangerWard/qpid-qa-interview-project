@@ -12,6 +12,11 @@ The repo exists on Kyle's personal Github, at https://github.com/KyleDangerWard/
 
     $ git clone https://github.com/KyleDangerWard/qpid-qa-interview-project.git
 
+3. When you open the project in your favorite IDE, open it as a Maven project and run Maven update to pull in the required libraries (junit and jsoup).
+
+   -In Eclipse, right-click on the project and select Configure > Convert to Maven Project
+                right-click on the project and select Maven > Update Project
+
 3. Create and point at a new branch for your work. Please include your name in the branch name.
 
     $ git checkout -b kyle_ward_exam
